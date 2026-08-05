@@ -1,5 +1,6 @@
 <img width="1664" height="928" alt="azure ai foundry" src="https://github.com/user-attachments/assets/400aae6d-b464-433f-bd9e-03537f6799e2" />
 
+
 # Enterprise PDF RAG Pipeline — Architecture Summary
 
 > End-to-end Azure architecture for ingesting PDF documents, extracting content with OCR / Document Intelligence, enriching it with GenAI, indexing it for hybrid retrieval, and serving grounded answers across multiple channels.
