@@ -1,0 +1,15 @@
+# Azure AI Document Intelligence
+AZURE_DOC_INTELLIGENCE_ENDPOINT="https://your-doc-intelligence.cognitiveservices.azure.com/"
+AZURE_DOC_INTELLIGENCE_KEY="your-key"
+
+# Azure OpenAI**
+AZURE_OPENAI_API_KEY="your-openai-key"**
+AZURE_OPENAI_ENDPOINT="https://your-resource.openai.azure.com/"
+AZURE_OPENAI_API_VERSION="2024-02-15-preview"
+AZURE_OPENAI_CHAT_DEPLOYMENT="gpt-4o"
+AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT="text-embedding-3-small"
+
+# Azure AI Search**
+AZURE_SEARCH_SERVICE_ENDPOINT="https://your-search.search.windows.net"
+AZURE_SEARCH_ADMIN_KEY="your-search-key"
+AZURE_SEARCH_INDEX_NAME="pdf-knowledge-base"
